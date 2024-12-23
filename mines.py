@@ -3,10 +3,10 @@ import random
 import telebot
 import time
 
-chat_id = "SEU CHAT ID"
-user_id = "SEU USER ID"
+chat_id = "-1002323794710"
+user_id = "7581849156:AAE45j7yCPtYf6tpxCuE5OztdJ07wzEKurM"
 
-LINK_SITE = '[JOGUE AGORA](https://www.link.com)'
+LINK_SITE = '[JOGUE AGORA](https://go.aff.betmillion.io/9k5cxyx2)'
 
 bot = telebot.TeleBot(token=chat_id)
 
